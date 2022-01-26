@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd.css"?>
+<album>
+<informacion>
+<portada></portada>
+<info_general>
+    <infoname>
+        <art>ARTISTA:</art>
+        <tit>TITULO:</tit>
+        <sel>SELLO:</sel>
+        <ref>REFERENCIA:</ref>
+        <año>AÑO:</año>
+        <pai>PAIS:</pai>
+        <for>FORMATO:</for>
+        <gen>GENERO:</gen>
+        <est>ESTILO:</est>
+        <obs>OBSERVACIONES:</obs>
+    </infoname>
+
+    <info>
+        <artista>ABC(2)</artista>
+        <titulo>The Collection</titulo>
+        <sello>KARUSSELL INTERNATIONAL</sello>
+        <ref>551 831-2</ref>
+        <año>1996</año>
+        <pais>germany</pais>
+        <formato>CD -compilation</formato>
+        <genero>funk/soul,Electronic</genero>
+        <estilo>Funk Disco, Synth Pop</estilo>
+        <observ>Licensed from Mercury Records Ltd (London)</observ>
+    </info>
+
+</info_general>
+</informacion>
+<cancion>
+<albumnom>CD1</albumnom>
+    <albsong>
+        <songline><line>01</line><song>Poision Arrow</song><min></min></songline>
+        <songline><line>02</line><song>The Look Of Love(Part One)</song><min></min></songline>
+        <songline><line>03</line><song>The Night You Murdered Love</song><min></min></songline>
+        <songline><line>04</line><song>Tears Are Not Enough</song><min></min></songline>
+        <songline><line>05</line><song>Be Near Me</song><min></min></songline>
+        <songline><line>06</line><song>I'm In Love With You</song><min></min></songline>
+        <songline><line>07</line><song>The Real Thing</song><min></min></songline>
+        <songline><line>08</line><song>Love's A Dangerous Language</song><min></min></songline>
+        <songline><line>09</line><song>The Greatest Love Of All</song><min></min></songline>
+        <songline><line>10</line><song>When Smokey Sings</song><min></min></songline>
+        <songline><line>11</line><song>One Better World</song><min></min></songline>
+        <songline><line>12</line><song>Vanity Kills</song><min></min></songline>
+        <songline><line>13</line><song>Bite The Hand</song><min></min></songline>
+        <songline><line>14</line><song>Chicago (Abridged)</song><min></min></songline>
+        <songline><line>15</line><song>Minneapolis</song><min></min></songline>
+        <songline><line>16</line><song>Think Again</song><min></min></songline>
+        <songline><line>17</line><song>Never More Than Now</song><min></min></songline>
+        <songline><line>18</line><song>All Of My Heart</song><min></min></songline>
+    </albsong>
+</cancion>
+</album>
